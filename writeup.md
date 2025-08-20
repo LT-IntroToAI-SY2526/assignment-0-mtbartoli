@@ -14,11 +14,11 @@ All answers can be found in the README.md file
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[]
+[committing is esentialy saving and pushing is sending what you saved out sepretly]
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+[]
 
 ---
 
