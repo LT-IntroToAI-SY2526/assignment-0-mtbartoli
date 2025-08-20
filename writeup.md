@@ -10,11 +10,11 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-[Your answer here]
+[Git is a distributed Version Control System that allows you have have all changes to code prodject on record while GitHub is the platform that such tecnologys exist.]
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+[]
 
 **3. What is a repository and what does it contain?**
 
