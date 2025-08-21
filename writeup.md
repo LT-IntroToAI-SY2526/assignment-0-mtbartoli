@@ -14,7 +14,7 @@ All answers can be found in the README.md file
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[committing is esentialy saving and pushing is sending what you saved out sepretly.]
+[committing is esentialy saving and pushing is sending what you saved out sepretly. This is important becasue then you can go back to a previos change and it helps others that may be collebrating]
 
 **3. What is a repository and what does it contain?**
 
@@ -34,7 +34,7 @@ All answers can be found in the README.md file
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[usising creative models with tryal and error]
+[usising creative models with tryal and error becasue I have seen videos about it in the past and would like to work with data]
 
 ---
 
